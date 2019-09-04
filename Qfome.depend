@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1567566432 source:c:\users\davi\desktop\qfome\main.cpp
+	<iostream>
+	<conio2.h>
+	<fstream>
+	<cstdlib>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"functions.h"
+
+1567575315 c:\users\davi\desktop\qfome\functions.h
+
+1567593526 source:c:\users\pedro\desktop\qfome(1)\qfome\main.cpp
+	<iostream>
+	<conio2.h>
+	<fstream>
+	<cstdlib>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"functions.h"
+
+1567594254 c:\users\pedro\desktop\qfome(1)\qfome\functions.h
+

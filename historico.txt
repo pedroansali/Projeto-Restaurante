@@ -1,4 +1,6 @@
-Venda de 4 unidades de baguete
-Venda de 5 unidades de lasanha
-Venda de 1 unidades de bolo
-Venda de 3 unidades de inhame
+Venda de 25 unidades de pao
+Venda de 20 unidades de pao
+Venda de 5 unidades de pao
+Venda de 5 unidades de pao-de-queijo
+Venda de 2 unidades de bolo
+Venda de 2 unidades de pao-com-queijo
